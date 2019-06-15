@@ -1,5 +1,7 @@
 {
   "name": "comb",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
